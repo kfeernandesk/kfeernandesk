@@ -8,8 +8,7 @@
 
 Sou estudante de ADS e gosto de transformar ideias e problemas do dia a dia em soluções digitais. Estou desenvolvendo minha base em programação e explorando, na prática, como a IA generativa pode apoiar a construção de ferramentas.
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar%20site-31BCE0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kfeernandesk.github.io/)
-[![Projeto](https://img.shields.io/badge/Projeto-LoopingBR%20Publisher-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kfeernandesk/loopingbr-publisher-portfolio)
+[![LoopingBR Publisher](https://img.shields.io/badge/Projeto-LoopingBR%20Publisher-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kfeernandesk/loopingbr-publisher-portfolio)
 
 </div>
 
@@ -19,10 +18,10 @@ Sou estudante de ADS e gosto de transformar ideias e problemas do dia a dia em s
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na **Universidade Cruzeiro do Sul**, com interesse em desenvolvimento de software, automações e aplicações de inteligência artificial.
 
-Tenho conhecimentos iniciais em lógica de programação, linguagem C, SQL e desenvolvimento web. Aprendo principalmente estudando, experimentando ferramentas e aperfeiçoando projetos próprios.
+Tenho conhecimentos iniciais em lógica de programação, SQL e desenvolvimento web. Aprendo principalmente estudando, experimentando ferramentas e aperfeiçoando projetos próprios.
 
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas — em andamento.
-- 🌱 **Estudando:** lógica de programação, C, SQL, HTML, CSS e JavaScript.
+- 🌱 **Estudando:** lógica de programação, SQL, HTML, CSS, JavaScript, Python, Google Cloud e IA generativa.
 - 🤖 **Interesse:** desenvolvimento assistido por IA, integrações e automação de processos.
 - 🎯 **Objetivo:** estágio em tecnologia para desenvolver minhas habilidades e contribuir com projetos reais.
 
@@ -63,28 +62,21 @@ O LoopingBR Publisher nasceu de uma necessidade pessoal: simplificar a preparaç
 
 **Em estudo e prática acadêmica**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![IA generativa](https://img.shields.io/badge/IA%20generativa-6D28D9?style=flat-square)
 
 **Ferramentas e tecnologias utilizadas no LoopingBR**
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![IA generativa](https://img.shields.io/badge/IA%20generativa-6D28D9?style=flat-square)
 
 *Essas tecnologias fazem parte da solução; sigo estudando e aprofundando meu conhecimento sobre sua implementação.*
-
-### 🔗 Links
-
-- 🌐 **Site e documentação:** [LoopingBR Publisher](https://kfeernandesk.github.io/)
-- 💻 **Código-fonte:** [Repositório do LoopingBR](https://github.com/kfeernandesk/loopingbr-publisher-portfolio)
-- 👤 **Meu GitHub:** [@kfeernandesk](https://github.com/kfeernandesk)
 
 ---
 
