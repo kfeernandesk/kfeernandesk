@@ -10,6 +10,25 @@ Sou estudante de ADS e gosto de transformar ideias e problemas do dia a dia em s
 
 [![LoopingBR Publisher](https://img.shields.io/badge/Projeto-LoopingBR%20Publisher-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kfeernandesk/loopingbr-publisher-portfolio)
 
+### 🛠️ Linguagens e tecnologias
+
+**Em estudo e prática acadêmica**
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![IA generativa](https://img.shields.io/badge/IA%20generativa-6D28D9?style=flat-square)
+
+**Ferramentas e tecnologias utilizadas no LoopingBR**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+*Essas tecnologias fazem parte da solução; sigo estudando e aprofundando meu conhecimento sobre sua implementação.*
 </div>
 
 ---
@@ -57,26 +76,6 @@ O LoopingBR Publisher nasceu de uma necessidade pessoal: simplificar a preparaç
   <a href="https://kfeernandesk.github.io/"><img alt="Site do projeto" src="https://img.shields.io/badge/Site%20do%20projeto-Acessar-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://github.com/kfeernandesk/loopingbr-publisher-portfolio/releases/tag/v1.0.14.1"><img alt="Versão Windows" src="https://img.shields.io/badge/Vers%C3%A3o%20Windows-Download-2563EB?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
-
-### 🛠️ Linguagens e tecnologias
-
-**Em estudo e prática acadêmica**
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![IA generativa](https://img.shields.io/badge/IA%20generativa-6D28D9?style=flat-square)
-
-**Ferramentas e tecnologias utilizadas no LoopingBR**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-*Essas tecnologias fazem parte da solução; sigo estudando e aprofundando meu conhecimento sobre sua implementação.*
 
 ---
 
