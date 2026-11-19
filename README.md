@@ -65,8 +65,6 @@ O LoopingBR Publisher nasceu de uma necessidade pessoal: simplificar a preparaç
 - Histórico de publicações e consulta a métricas, quando autorizadas.
 - Recursos opcionais de IA e um fluxo criativo separado, o **LoopingBR Studio**.
 
-**Minha participação:** idealização da solução, definição do fluxo, prototipação com apoio de IA, configuração e testes de integrações, identificação de problemas e refinamento contínuo do aplicativo.
-
 **Tecnologias presentes no projeto:** Go, Python, HTML, CSS, JavaScript, GitHub Actions, OAuth 2.0 e Google APIs.
 
 > **Nota:** é uma versão de laboratório e portfólio. O código pode ser estudado e compilado, mas o uso das integrações reais exige credenciais e configurações próprias.
