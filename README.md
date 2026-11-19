@@ -44,7 +44,7 @@ Tenho conhecimentos iniciais em lógica de programação, SQL e desenvolvimento 
 - 🤖 **Interesse:** desenvolvimento assistido por IA, integrações e automação de processos.
 - 🎯 **Objetivo:** estágio em tecnologia para desenvolver minhas habilidades e contribuir com projetos reais.
 
-### 🚀 Projeto em destaque: LoopingBR Publisher
+### Projeto em destaque: LoopingBR Publisher
 
 **Aplicativo para organizar e automatizar etapas da publicação de vídeos e Shorts no YouTube.**
 
